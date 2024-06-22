@@ -31,5 +31,5 @@
 | Link | GitHub |
 | ---- | ------ |
 | [System Modeling](https://samwhelp.github.io/system-modeling/) | [GitHub](https://github.com/samwhelp/system-modeling) |
-| [Sway Adjustment](https://samwhelp.github.io/sway-adjustment/) | [GitHub](https://github.com/samwhelp/sway-adjustment) |
+| [Sway Adjustment](https://samwhelp.github.io/swaywm-adjustment/) | [GitHub](https://github.com/samwhelp/swaywm-adjustment) |
 | [Fedora Adjustment](https://samwhelp.github.io/fedora-adjustment/) | [GitHub](https://github.com/samwhelp/fedora-adjustment) |
